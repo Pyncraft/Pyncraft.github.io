@@ -164,6 +164,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
   justify-content: center;
+  background-color: #D9D9D9;
 }
 .home-hero-text {
   width: 65%;
