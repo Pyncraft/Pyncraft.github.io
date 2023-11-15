@@ -149,11 +149,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
-  background-size: cover;
   justify-content: center;
-  background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
-  background-repeat: no-repeat;
-  background-position: center;
 }
 .home-content-container {
   width: 100%;
