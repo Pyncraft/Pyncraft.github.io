@@ -65,6 +65,10 @@
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
 }
+.home-link01 {
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
 .home-right-side {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
@@ -115,10 +119,6 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-link01 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .home-link02 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
@@ -128,6 +128,10 @@
   text-decoration: none;
 }
 .home-link04 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.home-link05 {
   text-decoration: none;
 }
 .home-hero {
@@ -514,7 +518,7 @@
   text-align: left;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-link06 {
+.home-link07 {
   text-decoration: none;
 }
 .home-service-card2 {
